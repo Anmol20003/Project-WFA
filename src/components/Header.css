@@ -1,0 +1,34 @@
+
+.header{
+    z-index: 5;
+}
+
+
+
+nav .search{
+    display: none;
+    align-items: center;
+    border: 1px solid white;
+    background: rgb(38, 36, 36);
+    border-radius: 9999px;
+}
+
+
+
+nav .search .search-input{
+    background: none;   
+    border: none;
+    outline: none;
+    padding: 5px;
+}
+
+
+@media screen and (max-width: 540px) {
+   nav .search{
+    display: flex;
+   }
+
+   h1.logo{
+    font-size: 14px;
+   }
+}

@@ -1,0 +1,88 @@
+
+.app{
+  /* width: 100vw;
+  height: 100vh; */
+  /* background-image: url("./assets/images/SAVE_20230501_201918.jpg"); */
+  /* background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;  */
+  overflow: hidden;
+}
+
+.country-location{
+  align-items: center;
+  gap: 1rem;
+}
+.country,.location{
+  margin-bottom: 0!important;
+}
+
+.box{
+  display: flex;
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  justify-content: space-between;
+  min-height: 100dvh;
+  min-height: 100vh;
+}
+
+.box-left{
+  flex: 0.8;
+  width: 100%;
+  padding: 20px;
+  /* background-color: black; */
+}
+
+
+.box-right{
+  position: absolute;
+  right: 0;
+  top: 0;
+  background-color: #0000005f;
+  overflow: auto;
+  color: white;
+  max-height: 100dvh;
+  max-height: 100vh;
+  width: 40%;
+  backdrop-filter: blur(8px);
+
+  
+}
+
+
+.box-right {
+  scrollbar-width: auto;
+  /* scrollbar-color: #fff #000000; */
+}
+.box-right::-webkit-scrollbar {
+  width: 3px;
+}
+
+.box-right::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.box-right::-webkit-scrollbar-thumb {
+  background-color: #00000095;
+  border-radius: 2px;
+  border: 2px solid #ffffff9d;
+}
+*{
+  -webkit-tap-highlight-color: transparent;
+}
+
+@media screen and (max-width: 680px) {
+  .box{
+   flex-direction: column;
+   justify-content: flex-start;
+   max-height: 90vh;
+   max-width: 100%;
+  }
+  .box-right{
+   width: 100%;
+    position: static;
+  }
+  
+}
