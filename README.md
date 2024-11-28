@@ -4,20 +4,20 @@ A sleek and user-friendly weather forecasting application built with React and N
 
 Features 🚀
 
-Real-Time Weather Updates: Current weather conditions like temperature, humidity, wind speed, etc.
-5-Day Forecast: Displays weather predictions for the next five days.
-Search by City: Quickly find weather details for any city around the globe.
-Dynamic Weather Icons: Visually appealing icons that change with the weather.
-Responsive Design: Fully optimized for desktop and mobile devices.
-Node.js Backend: Handles API requests and serves as the middleware for smooth client-server interaction.
+1. Real-Time Weather Updates: Current weather conditions like temperature, humidity, wind speed, etc.
+2. 5-Day Forecast: Displays weather predictions for the next five days.
+3. Search by City: Quickly find weather details for any city around the globe.
+4. Dynamic Weather Icons: Visually appealing icons that change with the weather.
+5. Responsive Design: Fully optimized for desktop and mobile devices.
+6. Node.js Backend: Handles API requests and serves as the middleware for smooth client-server interaction.
 
 Technologies Used 🛠️
 
-React: Front-end framework for building the user interface.
-  API Integration: Powered by OpenWeatherMap API (or mention the API you're using).
-  CSS: For styling the app.
-  Axios/Fetch: For API requests.
-  React Hooks: Efficient state management using hooks like useState and useEffect.
+1. React: Front-end framework for building the user interface.
+2. API Integration: Powered by OpenWeatherMap API (or mention the API you're using).
+3. CSS: For styling the app.
+4. Axios/Fetch: For API requests.
+5. React Hooks: Efficient state management using hooks like useState and useEffect.
 
 How to Run Locally 💻
 
