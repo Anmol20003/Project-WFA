@@ -26,7 +26,7 @@ Node.js and npm installed on your system.
 
 Steps:
 1. Clone the repository:
-git clone https://github.com/Anmol20003/weather-forecasting-app.git
+git clone https://github.com/Anmol20003/Weather-Forecasting-Application.git
 
 2. Navigate to the project directory:
 cd weather-forecasting-app
