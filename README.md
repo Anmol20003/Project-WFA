@@ -72,10 +72,11 @@ https://drive.google.com/file/d/1G0Yd_1vTfCZkOvyCCgph_1AHpwrr4B7L/view?usp=shari
 
 Future Enhancements ✨
 
-Add support for hourly forecasts.
-Include air quality index (AQI) data.
-Implement dark mode for a better user experience.
-Add localization for multiple languages.
+1. Add support for hourly forecasts.
+2. Include air quality index (AQI) data.
+3. Implement dark mode for a better user experience.
+4. Add localization for multiple languages.
+5. Enhanced Security
 
 Contributing 🤝
 
