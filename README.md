@@ -70,8 +70,16 @@ Working of the Project -
 
 https://drive.google.com/file/d/1G0Yd_1vTfCZkOvyCCgph_1AHpwrr4B7L/view?usp=sharing
 
+Future Enhancements ✨
 
+Add support for hourly forecasts.
+Include air quality index (AQI) data.
+Implement dark mode for a better user experience.
+Add localization for multiple languages.
 
+Contributing 🤝
+
+Feel free to contribute to this project by opening issues or submitting pull requests. Contributions are always welcome!
 
 
 
